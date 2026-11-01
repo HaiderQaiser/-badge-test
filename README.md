@@ -1,6 +1,9 @@
 <br />
 
-## 📊 Testing GitHub Stats Card (New Endpoint)
-<div align="center">
-  <img src="https://vercel.app" alt="Haider's GitHub Stats" />
-</div>
+## 🛠️ Testing Tech Stack & Tools
+<p align="left">
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="SQL Server" />
+  <img src="https://shields.io" alt="Snowflake" />
+  <img src="https://shields.io" alt="AWS" />
+</p>
